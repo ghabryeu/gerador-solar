@@ -1,0 +1,17 @@
+C:\Users\gabco\Gerador_solar\Gerador_solar\bin\Debug\net8.0\Gerador_solar.exe
+C:\Users\gabco\Gerador_solar\Gerador_solar\bin\Debug\net8.0\Gerador_solar.deps.json
+C:\Users\gabco\Gerador_solar\Gerador_solar\bin\Debug\net8.0\Gerador_solar.runtimeconfig.json
+C:\Users\gabco\Gerador_solar\Gerador_solar\bin\Debug\net8.0\Gerador_solar.dll
+C:\Users\gabco\Gerador_solar\Gerador_solar\bin\Debug\net8.0\Gerador_solar.pdb
+C:\Users\gabco\Gerador_solar\Gerador_solar\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\gabco\Gerador_solar\Gerador_solar\obj\Debug\net8.0\Gerador_solar.csproj.AssemblyReference.cache
+C:\Users\gabco\Gerador_solar\Gerador_solar\obj\Debug\net8.0\Gerador_solar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabco\Gerador_solar\Gerador_solar\obj\Debug\net8.0\Gerador_solar.AssemblyInfoInputs.cache
+C:\Users\gabco\Gerador_solar\Gerador_solar\obj\Debug\net8.0\Gerador_solar.AssemblyInfo.cs
+C:\Users\gabco\Gerador_solar\Gerador_solar\obj\Debug\net8.0\Gerador_solar.csproj.CoreCompileInputs.cache
+C:\Users\gabco\Gerador_solar\Gerador_solar\obj\Debug\net8.0\Gerador_.9CB8B1C5.Up2Date
+C:\Users\gabco\Gerador_solar\Gerador_solar\obj\Debug\net8.0\Gerador_solar.dll
+C:\Users\gabco\Gerador_solar\Gerador_solar\obj\Debug\net8.0\refint\Gerador_solar.dll
+C:\Users\gabco\Gerador_solar\Gerador_solar\obj\Debug\net8.0\Gerador_solar.pdb
+C:\Users\gabco\Gerador_solar\Gerador_solar\obj\Debug\net8.0\Gerador_solar.genruntimeconfig.cache
+C:\Users\gabco\Gerador_solar\Gerador_solar\obj\Debug\net8.0\ref\Gerador_solar.dll

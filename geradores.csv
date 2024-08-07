@@ -1,0 +1,4 @@
+ID do Gerador,Potência,IDs dos Produtos,Nomes dos Produtos,Quantidades dos Produtos
+10000,1000,1001;1001;3002;2003,Painel Alpha;Painel Alpha;Inversor Omega;Controlador Beta,1;1;1;1
+10001,1000,1002;1002;3002;2003,Painel Omega;Painel Omega;Inversor Omega;Controlador Beta,1;1;1;1
+10002,1000,1003;1003;3002;2003,Painel Beta;Painel Beta;Inversor Omega;Controlador Beta,1;1;1;1

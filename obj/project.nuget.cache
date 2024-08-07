@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SQ17+q+hhdg5eWA49i/FOTIUYRfz1LZR1owVD5saIJNEf3tzuoDoLdJO7O56If+xwLgAg19tjdcTkmm0Y9UB7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabco\\Gerador_solar\\Gerador_solar\\Gerador_solar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabco\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
